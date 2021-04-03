@@ -45,6 +45,9 @@ Setelah di refresh di web browser
 
 ![6](https://user-images.githubusercontent.com/56242226/113469385-4ab00200-9477-11eb-9400-d1d15a76d00c.PNG)
 
+Setelah itu refresh di web browser 
+
+![6a](https://user-images.githubusercontent.com/56242226/113469439-9cf12300-9477-11eb-9333-9a049d5f8ce4.PNG)
 
 
 
