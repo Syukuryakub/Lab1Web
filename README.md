@@ -9,3 +9,9 @@ Beriku adalah ampilan di web browser misalnya ms edge atau Mozilla firefox dll
 2.	Membuat paragraph pada vs code 
 ![2](https://user-images.githubusercontent.com/56242226/113468916-7fba5580-9473-11eb-9e39-a8a4278a7ab9.PNG)
 
+Berikut adalah tampilan di web browser setelah di refresh dan mengubah nilai atributnya (align => justify, left, right, dan center)
+![2a](https://user-images.githubusercontent.com/56242226/113468952-cd36c280-9473-11eb-97c9-dfc72b798a4e.PNG)
+
+
+
+
