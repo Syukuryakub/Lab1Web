@@ -1,7 +1,11 @@
 NAMA   : SYUKUR YAKUB
-kELAS  : TI.19.C1
+
+KELAS  : TI.19.C1
+
 NIM    : 311910696
+
 MATKUL : PEMROGRAMAN WEB
+
 
 Berikut penjelasan praktikum beserta screenshootan nya 
 
