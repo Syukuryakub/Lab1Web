@@ -63,7 +63,7 @@ Jawab Pertanyaan Berikut !
 
 1.	Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
-2..	Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2..	Apa perbedaan dari tag < p > dengan tag < br >, berikan penjelasannya!
 
 3.	Apa perbedaan atribut title dan alt pada tag < img > , berikan penjelasannya!
 
@@ -73,9 +73,9 @@ Jawab Pertanyaan Berikut !
 
 Jawaban :
 
-1.	Menurut pengamatan yang saya amati jika kita salah dalam penulisan tag itu tidak akan terjadi eror hanya saja tidak akan  di tampilkan perubahannya di web browser local pada saat di refresh dan dalam penulisan tag itu harus selalu berpasangan. Contoh : <h1></h1> , <p1></p1> dan lain sebagainya.
+1.	Menurut pengamatan yang saya amati jika kita salah dalam penulisan tag itu tidak akan terjadi eror hanya saja tidak akan  di tampilkan perubahannya di web browser local pada saat di refresh dan dalam penulisan tag itu harus selalu berpasangan. Contoh : < h1 >< /h1 > , < p1 >< /p1 > dan lain sebagainya.
 
-2.	Tag <p> berfungsi untuk membuat paragraph baru pada HTML, antara baris atau paragraph terbentuk jarak atau mempunyai tag pembuka dan penutup. sedangkan <br> itu adalah tag tunggal tanpa di awali tag pembuka dan diakhiri tag penutup . ia berdiri sendiri.
+2.	Tag < p > berfungsi untuk membuat paragraph baru pada HTML, antara baris atau paragraph terbentuk jarak atau mempunyai tag pembuka dan penutup. sedangkan <br> itu adalah tag tunggal tanpa di awali tag pembuka dan diakhiri tag penutup . ia berdiri sendiri.
 
 3.	Alt  memberikan deskripsi alternatif gambar. Atribut ini diperlukan untuk img. Sedangkan Title memberikan informasi tambahan tentang gambar. Atribut ini adalah opsional untuk img.
 
