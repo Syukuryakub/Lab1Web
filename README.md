@@ -32,6 +32,11 @@ Setelah itu lihatlah perubahannya pada web browser sebagai berikut
 
 ![4a](https://user-images.githubusercontent.com/56242226/113469211-1851d500-9476-11eb-94e5-ab6204230531.PNG)
 
+5.	Kemudian menyisipkan gambar dan mengatur ukuran gambar 
+
+![5](https://user-images.githubusercontent.com/56242226/113469260-72529a80-9476-11eb-81a1-cada0475b70b.PNG)
+
+
 
 
 
