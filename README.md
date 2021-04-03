@@ -1,3 +1,8 @@
+NAMA   : SYUKUR YAKUB
+kELAS  : TI.19.C1
+NIM    : 311910696
+MATKUL : PEMROGRAMAN WEB
+
 Berikut penjelasan praktikum beserta screenshootan nya 
 
 1.	Membuat file baru pada VS CODE 
