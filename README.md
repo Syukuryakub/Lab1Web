@@ -24,6 +24,11 @@ Kemudian refresh di web browser lalu lihat perubahannya
 
 ![3a](https://user-images.githubusercontent.com/56242226/113469105-1c312780-9475-11eb-868e-89596d5c830c.PNG)
 
+4.	Selanjutnya memformat text 
+
+![4](https://user-images.githubusercontent.com/56242226/113469142-7b8f3780-9475-11eb-9e88-2e4085f230cc.PNG)
+
+
 
 
 
