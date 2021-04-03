@@ -12,6 +12,11 @@ Beriku adalah ampilan di web browser misalnya ms edge atau Mozilla firefox dll
 Berikut adalah tampilan di web browser setelah di refresh dan mengubah nilai atributnya (align => justify, left, right, dan center)
 ![2a](https://user-images.githubusercontent.com/56242226/113468952-cd36c280-9473-11eb-97c9-dfc72b798a4e.PNG)
 
+3. Kemudian membuat atau menambahkan judul  
+![3](https://user-images.githubusercontent.com/56242226/113469040-8eedd300-9474-11eb-8eba-e4d0e75dac13.PNG)
+
+
+
 
 
 
